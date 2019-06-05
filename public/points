@@ -1,0 +1,4 @@
+cors: i am using insta (server A), now suppose insta uses cdn to store my imgs,
+this is cors a request
+
+appshell: static content that wont change in app
